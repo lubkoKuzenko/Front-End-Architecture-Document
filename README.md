@@ -64,29 +64,79 @@ In order to maintain high quality of delivery and prevent technical debt from be
 
 ## LONGLIST
 
-- State Management and Sync Strategies - Pushing Data from the Server - REST vs. GraphQL - Loading and Error States - Caching Requests - Authorization/Authentication
-- Bundle Management - Code Splitting - Tree-Shaking - Lazy-loading
-- Dependency Management - node_modules - npm / Yarn - Build your own registry
-- Application Deployment - Build Processes - Continuous Integration / Continuous Deployment - Docker / Kubernetes - Hosting and Content Delivery Networks
-- Application Monitoring - End user monitoring - Synthetic monitoring
-- Testing - Balancing Unit and Integration Tests - Local Setup: Communicating with backend systems/mocking requests - Visual Regression testing
-- Styling and Design Systems - CSS Methodologies - CSS-in-JS
+- State Management and Sync Strategies
+  - Pushing Data from the Server
+  - REST vs. GraphQL
+  - Loading and Error States
+  - Caching Requests - Authorization/Authentication
+- Bundle Management
+  - Code Splitting
+  - Tree-Shaking
+  - Lazy-loading
+- Dependency Management
+  - node_modules
+  - npm / Yarn
+  - Build your own registry
+- Application Deployment
+  - Build Processes
+  - Continuous Integration / Continuous Deployment
+  - Docker / Kubernetes
+  - Hosting and Content Delivery Networks
+- Application Monitoring
+  - End user monitoring
+  - Synthetic monitoring
+- Testing
+- Styling and Design Systems
+  - CSS Methodologies
+  - CSS-in-JS
 - Linting & code formatting
-- Browser support
 - Search Engine Optimization (SEO)
-- Accessibility - aria-label
+- Accessibility
 - Localization
 - Client-Side Routing
 - Font Loading and Rendering
 - Image Optimization
-- Performance - Inlining CSS - RAIL - PRPL - Layout Performance - Runtime Performance - Auditing
+- Performance
+  - Inlining CSS
+  - RAIL
+  - PRPL
+  - Layout Performance
+  - Runtime Performance
+  - Auditing
 - Microfrontends vs. Monoliths
-- Backends for Front End - Custom back-end solutions - Out of box solutions - Google Firebase - Firebase Functions
+- Backends for Front End
+  - Custom back-end solutions
+  - Out of box solutions
+  - Google Firebase
+  - Firebase Functions
 - Server-Side Rendering vs. Static Site Generation
 - WebAssembly
 - Type Systems
 - Monitoring and Alerting
 - Design Patterns
-- Documentation - Platform Architecture - Sequence Diagrams/User Flows - Developer Workflow - Performance Budgets - Testing Strategy - Runbooks - Compliance Considerations - SOX - GDPR - WCAG 2.0 - PCI - HIPAA - etc.
-- Repo creation - README.md - Local Setup - Develop Against Different Environments - Run Tests - CONTRIBUTOR.md - Conventional Commits - Code Review Process - Library Release Process
-- Templates and tooling - Bootstrapping new projects - Updating legacy code (Codemods)
+- Documentation
+  - Platform Architecture
+  - Sequence Diagrams/User Flows
+  - Developer Workflow
+  - Performance Budgets
+  - Testing Strategy
+  - Runbooks
+  - Compliance Considerations
+  - SOX
+  - GDPR
+  - WCAG 2.0
+  - PCI
+  - HIPAA
+  - etc.
+- Repo creation
+  - README.md
+  - Local Setup
+  - Develop Against Different Environments
+  - Run Tests
+  - CONTRIBUTOR.md
+  - Conventional Commits
+  - Code Review Process
+  - Library Release Process
+- Templates and tooling
+  - Bootstrapping new projects
+  - Updating legacy code (Codemods)
