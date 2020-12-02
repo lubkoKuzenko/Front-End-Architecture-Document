@@ -1,6 +1,6 @@
 # Front End Architecture Document
 
-<img src="./assets/Screenshot 2020-12-02 at 10.43.38.png" width="960">
+<img src="./assets/trianglify-lowres.png" width="960">
 
 ## Table of Content
 
