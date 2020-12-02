@@ -5,11 +5,7 @@
 ## Table of Content
 
 - [Introduction](#Introduction)
-- [Repo](#Repo)
-- [Configuration](#Configuration)
-  - [Configuring tsconfig.json](#Configuring-tsconfig.json)
-  - [Configuring TSLint](#Configuring-TSLint)
-  - [Configuring Prettier](#Configuring-Prettier)
+- [Browser Support](#Browser-Support)
 
 ## Introduction
 
