@@ -1,6 +1,6 @@
 # Front End Architecture Document
 
-<img src="./assets/frontend-top.jpg" width="960">
+<img src="./assets/Screenshot 2020-12-02 at 10.43.38.png" width="960">
 
 ## Table of Content
 
