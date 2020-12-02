@@ -33,6 +33,15 @@ In order to maintain high quality of delivery and prevent technical debt from be
 | IE      | 11                           |
 | Safari  | 2 most recent major versions |
 
+## Mobile/Tablet Support
+
+- List of supported devices.
+- Required Platforms
+  - IOS
+  - Android
+- Responsive design(breakpoints)
+  <img src="./assets/Bootstrap_breakpoints.png" width="580">
+
 ## Style Guides
 
 ## Accessibility
