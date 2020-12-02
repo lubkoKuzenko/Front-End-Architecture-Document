@@ -1,6 +1,6 @@
 # Front End Architecture Document
 
-<img src="./assets/trianglify-lowres.png" width="960">
+<img src="./assets/1_4OgqQRDfBtrftDNJrVHbHw.png" width="960">
 
 ## Table of Content
 
