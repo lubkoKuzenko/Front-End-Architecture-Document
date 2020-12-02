@@ -1,6 +1,6 @@
 # Front End Architecture Document
 
-<img src="./assets/1_4OgqQRDfBtrftDNJrVHbHw.png" width="960">
+<img src="./assets/1_PNlbgb05IwSxOhAz0aA2rg-1024x501 (1).png" style="" width="960">
 
 ## Table of Content
 
