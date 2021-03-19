@@ -21,10 +21,10 @@ The team would need to use this definition in the first sprint when they would m
 | #   | Task                                                      |
 | --- | --------------------------------------------------------- |
 | 1   | Acceptance criteria for each issue met                    |
-| 1   | Code review has been completed                            |
-| 2   | Unit tests have been passed                               |
-| 3   | Functional tests passed                                   |
-| 4   | Non-functional requirements met                           |
-| 4   | Build has been made and deployed on a testing environment |
-| 5   | Product owner accepts the User Story                      |
-| 5   | Code is documented                                        |
+| 2   | Code review has been completed                            |
+| 3   | Unit tests have been passed                               |
+| 4   | Functional tests passed                                   |
+| 5   | Non-functional requirements met                           |
+| 6   | Build has been made and deployed on a testing environment |
+| 7   | Product owner accepts the User Story                      |
+| 8   | Code is documented                                        |
