@@ -8,6 +8,7 @@
 - [Browser Support](./Browser_Support/browser_support.md)
 - [Code Formatting](./Code_Formatting/code_formatting.md)
 - [Definition of Done](./Definition_of_Done/definition_of_done.md)
+- [Architecture decision record](./ADR/adr.md)
 
 ## Introduction
 
