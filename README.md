@@ -6,6 +6,7 @@
 
 - [Introduction](#Introduction)
 - [Browser Support](./Browser_Support/browser_support.md)
+- [Code Formatting](./Browser_Support/browser_support.md)
 
 ## Introduction
 
