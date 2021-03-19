@@ -37,8 +37,6 @@ In order to maintain high quality of delivery and prevent technical debt from be
 
 ## Styling and Design Systems
 
-## Linting & code formatting
-
 ## Search Engine Optimization (SEO)
 
 ## Microfrontends vs. Monoliths
@@ -70,7 +68,7 @@ In order to maintain high quality of delivery and prevent technical debt from be
 - Styling and Design Systems
   - CSS Methodologies
   - CSS-in-JS
-- Linting & code formatting
+- Linting
 - Search Engine Optimization (SEO)
 - Accessibility
 - Localization
