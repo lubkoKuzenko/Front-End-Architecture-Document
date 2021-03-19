@@ -5,7 +5,7 @@
 ## Table of Content
 
 - [Introduction](#Introduction)
-- [Browser Support](./Browser Support/browser_support.md)
+- [Browser Support](./Browser_Support/browser_support.md)
 
 ## Introduction
 
