@@ -11,6 +11,8 @@
 
 In order to maintain high quality of delivery and prevent technical debt from being created, we had to agree to a series of guidelines and good practices of how to plan, structure and write applications in Angular
 
+<img src="./assets/end.png" width="100%">
+
 ## Mobile/Tablet Support
 
 - List of supported devices.
