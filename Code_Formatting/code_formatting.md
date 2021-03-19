@@ -1,6 +1,6 @@
 ## Code formatting
 
-<img src="./assets//1_6bahY_X6IYJkJAPQWNUIRQ.gif" width="100%" />
+<img src="./assets/1_6bahY_X6IYJkJAPQWNUIRQ.gif" width="100%" />
 
 **Resources**
 
