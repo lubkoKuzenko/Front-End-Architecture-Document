@@ -5,33 +5,11 @@
 ## Table of Content
 
 - [Introduction](#Introduction)
-- [Browser Support](#Browser-Support)
+- [Browser Support](./Browser Support/browser_support.md)
 
 ## Introduction
 
 In order to maintain high quality of delivery and prevent technical debt from being created, we had to agree to a series of guidelines and good practices of how to plan, structure and write applications in Angular
-
-## Dependency Management
-
-- node_modules
-- npm
-- package.json
-- package-lock.json
-
-## Browser Support
-
-**Resources**
-
-- ["Angular: Browser support"](https://angular.io/guide/browser-support)
-- ["React: Browser support"](https://create-react-app.dev/docs/supported-browsers-features/)
-
-| Browser | Supported versions           |
-| ------- | ---------------------------- |
-| Chrome  | latest                       |
-| Firefox | latest                       |
-| Edge    | 2 most recent major versions |
-| IE      | 11                           |
-| Safari  | 2 most recent major versions |
 
 ## Mobile/Tablet Support
 
