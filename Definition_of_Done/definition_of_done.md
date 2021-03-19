@@ -4,7 +4,7 @@
 
 **Resources**
 
-- ["Prettier"](https://prettier.io/)
+- ["Find Your Definition of Done"](https://plan.io/blog/definition-of-done/#what-is-a-definition-of-done-dod)
 
 `Definition of Done` is a list of criteria that has to be met before any work can be considered done. Failure to meet any one of these conditions means the work is not complete
 
