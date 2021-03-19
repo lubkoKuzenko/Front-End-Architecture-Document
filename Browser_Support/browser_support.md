@@ -6,6 +6,8 @@
 
 - ["Angular: Browser support"](https://angular.io/guide/browser-support)
 - ["React: Browser support"](https://create-react-app.dev/docs/supported-browsers-features/)
+- ["Can I Use"](https://caniuse.com/)
+- ["Browser Market Share Worldwide"](https://gs.statcounter.com/)
 
 | Browser | Supported versions           |
 | ------- | ---------------------------- |
