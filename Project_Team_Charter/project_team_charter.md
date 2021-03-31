@@ -11,6 +11,11 @@
     margin: .5rem 0;
   }
 
+  table caption {
+    font-size: 2rem;
+    text-align: left;
+  }
+
   table tr:nth-child(even) { background: #CCC }
   table tr:nth-child(odd) { background: #FFF }
 </style>
