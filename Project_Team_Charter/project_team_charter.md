@@ -38,19 +38,19 @@
    </tr>
 
    <tr>
-      <td><img src="https://avatars.githubusercontent.com/u/6137495?v=4" width="100px;"/></td>
-      <td>Lyubomyr Kuzenko</td>
-      <td>Front-End Developer</td>
-      <td>l.kuzenko@levi9.com</td>
+      <td><img src="https://picsum.photos/100" width="100px;"/></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
       <td><a target="_blank" href="https://www.google.com/maps/@50.3885818,30.6540186,10.68z">Kyiv, Ukraine</a></td>
    </tr>
 
    <tr>
-      <td><img src="https://avatars.githubusercontent.com/u/6137495?v=4" width="100px;"/></td>
-      <td>Lyubomyr Kuzenko</td>
-      <td>Front-End Developer</td>
-      <td>l.kuzenko@levi9.com</td>
-      <td><a target="_blank" href="https://www.google.com/maps/@49.8322153,24.0038564,12.57z">Lviv, Ukraine</a></td>
+       <td><img src="https://picsum.photos/100" width="100px;"/></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
    </tr>
    </tbody>
 </table>
@@ -68,27 +68,11 @@
   </thead>
   <tbody>
    <tr>
-      <td><img src="https://avatars.githubusercontent.com/u/6137495?v=4" width="100px;"/></td>
-      <td>Lyubomyr Kuzenko</td>
-      <td>Front-End Developer</td>
-      <td>l.kuzenko@levi9.com</td>
-      <td><a href="https://www.google.com/maps/@49.8322153,24.0038564,12.57z">Lviv, Ukraine</a></td>
-   </tr>
-
-   <tr>
-      <td><img src="https://avatars.githubusercontent.com/u/6137495?v=4" width="100px;"/></td>
-      <td>Lyubomyr Kuzenko</td>
-      <td>Front-End Developer</td>
-      <td>l.kuzenko@levi9.com</td>
-      <td><a href="https://www.google.com/maps/@50.3885818,30.6540186,10.68z">Kyiv, Ukraine</a></td>
-   </tr>
-
-   <tr>
-      <td><img src="https://avatars.githubusercontent.com/u/6137495?v=4" width="100px;"/></td>
-      <td>Lyubomyr Kuzenko</td>
-      <td>Front-End Developer</td>
-      <td>l.kuzenko@levi9.com</td>
-      <td><a href="https://www.google.com/maps/@49.8322153,24.0038564,12.57z">Lviv, Ukraine</a></td>
+      <td><img src="https://picsum.photos/100" /></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
    </tr>
    </tbody>
 </table>
