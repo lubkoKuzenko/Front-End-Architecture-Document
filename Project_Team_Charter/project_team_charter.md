@@ -2,11 +2,6 @@
 
 <img src="./assets/who-is-on-the-team-header-1612952290708.jpeg" width="100%" />
 
-<style>
-  table tr:nth-child(even) { background: #CCC }
-  table tr:nth-child(odd) { background: #FFF }
-</style>
-
 <table width="100%">
   <caption style="font-size: 2rem;text-align: left;">Project Team</caption>
   <thead>
