@@ -2,6 +2,13 @@
 
 <img src="./assets/who-is-on-the-team-header-1612952290708.jpeg" width="100%" />
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 <table width="100%">
   <caption style="font-size: 2rem;text-align: left;">Project Team</caption>
   <thead>
