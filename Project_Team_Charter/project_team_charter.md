@@ -3,25 +3,12 @@
 <img src="./assets/who-is-on-the-team-header-1612952290708.jpeg" width="100%" />
 
 <style>
-  table {
-    width: 100%
-  }
-
-  table tr {
-    margin: .5rem 0;
-  }
-
-  table caption {
-    font-size: 2rem;
-    text-align: left;
-  }
-
   table tr:nth-child(even) { background: #CCC }
   table tr:nth-child(odd) { background: #FFF }
 </style>
 
-<table>
-  <caption>Project Team</caption>
+<table width="100%">
+  <caption style="font-size: 2rem;text-align: left;">Project Team</caption>
   <thead>
     <tr>
       <th>Photo</th>
@@ -60,7 +47,7 @@
    </tbody>
 </table>
 
-<table>
+<table width="100%">
   <caption>Other contacts</caption>
   <thead>
     <tr>
