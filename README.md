@@ -7,6 +7,7 @@
 - [Introduction](#Introduction)
 - [Browser Support](./Browser_Support/browser_support.md)
 - [Code Formatting](./Code_Formatting/code_formatting.md)
+- [Scrum Events](./Scrum_Events/scrum_events.md)
 - [Definition of Ready](./Definition_of_Ready/definition_of_ready.md)
 - [Acceptance Criteria](./Acceptance_Criteria/acceptance_criteria.md)
 - [Definition of Done](./Definition_of_Done/definition_of_done.md)
