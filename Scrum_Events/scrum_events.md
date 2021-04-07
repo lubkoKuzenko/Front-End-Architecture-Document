@@ -23,7 +23,7 @@ There are five types of Scrum meetings held in regular intervals:
 `Product Backlog refinement` is the act of adding detail, estimates, and order to items in the Product Backlog.
 
 - `Space`: online meeting (Teams), all people need to be there
-- `Time`: 1-2 hours, occurs between sprints, officially can be 10% of sprint time
+- `Time`: 1-2 hours (2 week sprint), occurs between sprints, officially can be 10% of sprint time
 - `Eventfulness` 
     - Evaluate a story for clarity, size and feasibility
     - Learn what’s coming up in the next sprint
@@ -43,28 +43,32 @@ There are five types of Scrum meetings held in regular intervals:
 
 Sprint Planning is the scrum ceremony designed to make sure the team is prepared to get the right things done every sprint
 
-- `Space`: online meeting (Teams), all people need to be there
-- `Time`: 1-2 hours, occurs between sprints
+- `Space`: online meeting (Teams), PO, SM, Team
+- `Time`: 1-4 hours (2 week sprint), happens at the beginning of a new sprint
 - `Eventfulness` 
-    - Evaluate a story for clarity, size and feasibility
-    - Learn what’s coming up in the next sprint
-    - Express concerns early in the process
-    - Make sprint planning move quicker
-- `Product`: 
+    - Review the prioritized Product Backlog
+    - Define sprint goal that can be demonstrated at the end of a sprint
+    - Be sure to keep in mind any time off, vacations, holidays to accurately reflect the amount of work that can be accomplished
+- `Product`: As a result of this meeting we need to have ready `Sprint Backlog`
 - `Style`: 
-
+    - Acceptance
+    - Building consensus
+    - Stacking
+    - Tracking
 
 ### Daily standup
 
-- `Space`: online meeting (Teams)
-- `Time`: 1-2 hours, occurs between sprints
+The purpose of the `Daily Scrum` Event is to inspect progress made towards the `Sprint Goal` and progress made in the `Sprint Backlog`, in order to adapt the plan for the rest of the `Sprint`.
+
+- `Space`: online meeting (Teams), PO, SM, Team
+- `Time`: 15-minute, held every day of the Sprint
 - `Eventfulness` 
-    - Evaluate a story for clarity, size and feasibility
-    - Learn what’s coming up in the next sprint
-    - Express concerns early in the process
-    - Make sprint planning move quicker
-- `Product`: 
+    - Improve the Development Team’s level of knowledge
+    - The Development Team makes a plan for the next 24 hours
+- `Product`: The goal of this event is optimize team collaboration and performance.
 - `Style`: 
+    - Stacking 
+    - Tracking
 
 
 ### Sprint review
@@ -72,22 +76,16 @@ Sprint Planning is the scrum ceremony designed to make sure the team is prepared
 - `Space`: online meeting (Teams)
 - `Time`: 1-2 hours, occurs between sprints
 - `Eventfulness` 
-    - Evaluate a story for clarity, size and feasibility
-    - Learn what’s coming up in the next sprint
-    - Express concerns early in the process
-    - Make sprint planning move quicker
+    - todo
 - `Product`: 
 - `Style`: 
-
+    - todo 
 
 ### Sprint retrospective
 
 - `Space`: online meeting (Teams)
 - `Time`: 1-2 hours, occurs between sprints
 - `Eventfulness` 
-    - Evaluate a story for clarity, size and feasibility
-    - Learn what’s coming up in the next sprint
-    - Express concerns early in the process
-    - Make sprint planning move quicker
+    - todo
 - `Product`: 
 - `Style`: 
