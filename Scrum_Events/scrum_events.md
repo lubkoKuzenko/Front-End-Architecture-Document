@@ -2,6 +2,14 @@
 
 <img src="./assets/scrum.png" width="100%" />
 
+**Resources**
+
+- ["Product Backlog Refinement"](https://medium.com/the-value-maximizers/scrum-events-product-backlog-refinement-db2248cf36fc)
+- ["Sprint Planning"](https://medium.com/the-value-maximizers/scrum-events-sprint-planning-dff9d4937b04)
+- ["Daily Standup"](https://medium.com/the-value-maximizers/scrum-events-daily-scrum-e772a5fa176d)
+- ["Sprint Review"](https://medium.com/the-value-maximizers/scrum-events-sprint-review-a40f79afe764)
+- ["Sprint Retrospective"](https://medium.com/the-value-maximizers/scrum-events-sprint-retrospective-b59eb768edf4)
+
 There are five types of Scrum meetings held in regular intervals:
 
 - Product backlog refinement
@@ -11,6 +19,8 @@ There are five types of Scrum meetings held in regular intervals:
 - Sprint retrospective
 
 ### Product Backlog Refinement
+
+`Product Backlog refinement` is the act of adding detail, estimates, and order to items in the Product Backlog.
 
 - `Space`: online meeting (Teams), all people need to be there
 - `Time`: 1-2 hours, occurs between sprints, officially can be 10% of sprint time
