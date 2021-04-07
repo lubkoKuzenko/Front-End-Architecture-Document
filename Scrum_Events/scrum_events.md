@@ -22,7 +22,7 @@ There are five types of Scrum meetings held in regular intervals:
 
 `Product Backlog refinement` is the act of adding detail, estimates, and order to items in the Product Backlog.
 
-- `Space`: online meeting (Teams), all people need to be there
+- `Space`: online meeting (Teams), PO, SM, Team, Stakeholders
 - `Time`: 1-2 hours (2 week sprint), occurs between sprints, officially can be 10% of sprint time
 - `Eventfulness` 
     - Evaluate a story for clarity, size and feasibility
@@ -70,16 +70,23 @@ The purpose of the `Daily Scrum` Event is to inspect progress made towards the `
     - Stacking 
     - Tracking
 
-
 ### Sprint review
 
-- `Space`: online meeting (Teams)
-- `Time`: 1-2 hours, occurs between sprints
+The purpose of the `Sprint Review` is to inspect the `Product Increment` delivered in the `Sprint` and to adapt the `Product Backlog`
+
+- `Space`: online meeting (Teams), PO, SM, Team, Stakeholders
+- `Time`: 1-2 hours (2 week sprint), held at the end of the sprint
 - `Eventfulness` 
-    - todo
-- `Product`: 
+    - Collaborate about what was done in the Sprint
+    - Define next things that could be done to optimize value
+    - Presentation of the Increment
+    - Receive feedback from Stakeholders and PO
+- `Product`: Feedback about increment
 - `Style`: 
-    - todo 
+    - Informal
+    - Building consensus
+    - Tracking
+    - Summary
 
 ### Sprint retrospective
 
