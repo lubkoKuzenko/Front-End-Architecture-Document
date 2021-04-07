@@ -96,3 +96,8 @@ The purpose of the `Sprint Review` is to inspect the `Product Increment` deliver
     - todo
 - `Product`: 
 - `Style`: 
+
+
+### Cheat Sheet
+
+<img src="./assets/4-Scrum-ceremonies-side-by-side.png" width="100%" />
