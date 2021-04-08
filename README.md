@@ -1,4 +1,4 @@
-# Front End Architecture Document
+# Front-End Architecture Document
 
 <img src="./assets/logo.png" width="960">
 
