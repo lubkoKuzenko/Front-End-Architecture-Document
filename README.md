@@ -5,6 +5,7 @@
 ## Table of Content
 
 - [Introduction](#Introduction)
+- [The role of Front-end Architect](./Front_End_Architect/front_end_architect.md)
 - [Browser Support](./Browser_Support/browser_support.md)
 - [Code Formatting](./Code_Formatting/code_formatting.md)
 - [Scrum Events](./Scrum_Events/scrum_events.md)
