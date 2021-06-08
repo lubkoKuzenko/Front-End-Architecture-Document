@@ -16,15 +16,19 @@ Scrum team defines the definition of done. They are the ones who will be account
 
 The team would need to use this definition in the first sprint when they would mark the first product increment as done. That means the definition of done should create before the first sprint or latest within the first sprint itself.
 
+The automated tests have been executed and no regression or blocker/critical, major issues have been raised
+The User Story is moved to the status <Ready for Deployment> on the Project Board (status means Backbase development finished)
+
 ### Example
 
 | #   | Task                                                      |
 | --- | --------------------------------------------------------- |
 | 1   | Acceptance criteria for each issue met                    |
 | 2   | Code review has been completed                            |
-| 3   | Unit tests have been passed                               |
+| 3   | Unit tests are written and passed                               |
 | 4   | Functional tests passed                                   |
 | 5   | Non-functional requirements met                           |
 | 6   | Build has been made and deployed on a testing environment |
 | 7   | Product owner accepts the User Story                      |
-| 8   | Code is documented                                        |
+| 8   | The relevant documentation is updated                                        |
+| 9   | Accessibilty    |
