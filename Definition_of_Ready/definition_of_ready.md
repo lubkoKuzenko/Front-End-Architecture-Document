@@ -33,18 +33,25 @@ They can be explained as follows:
 - The user stories must be demonstrable before the stakeholders
 - The Product Owner and the team must understand the performance criteria.
 
+
+`Definition of ready` can be defined for `Sprint` or `User Story`
+
 ### Example
 
 | #   | Task                                                      |
 | --- | --------------------------------------------------------- |
-| 1   | Jira ticket created and properly taged (Scrum Master)     |
-| 2   | User story defined (Scrum Master, PO)                     |
-| 3   | Acceptance Criteria defined (Scrum Master, QA)            |
-| 4   | Tasks Defined (Scrum Master, Team)                        |
-| 5   | Tickets t-shirt size and points size estimate completed       (Scrum Master, Team)                                              |
-| 6   | All UI/UX designs ready                                   |
-| 7   | Impacted stakeholders are identified (Scrum Master, PO)   |
-| 8   | Known dependencies and edge cases identified (Team)       |
+| 1   | The Sprint Backlog is prioritised                         |
+| 2   | The Sprint Backlog only contains the number of User Stories accepted by the team during Sprint Planning                         |
+| 3   | Jira ticket created and properly taged (Scrum Master)     |
+| 4   | All User Stories meet Definition of Ready for User Stories|
+| 5   | Acceptance Criteria defined (Scrum Master, QA)            |
+| 6   | Tasks Defined (Scrum Master, Team)                        |
+| 7   | Tickets t-shirt size and points size estimate completed       (Scrum Master, Team)                                              |
+| 8   | All UI/UX designs ready                                   |
+| 9   | API contract is ready for the user stories taken in the Sprint                                   |
+| 10   | Mock data is provided for stories taken in the Sprint                                   |
+| 11   | Impacted stakeholders are identified (Scrum Master, PO)   |
+| 12   | Known dependencies and edge cases identified (Team)       |
 
 </br></br>
 <img src="./assets/b82afe544d10428af7512b44a2027a83.jpeg" width="100%" />
