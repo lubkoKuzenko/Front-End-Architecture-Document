@@ -19,7 +19,7 @@ The team would need to use this definition in the first sprint when they would m
 The automated tests have been executed and no regression or blocker/critical, major issues have been raised
 The User Story is moved to the status <Ready for Deployment> on the Project Board (status means Backbase development finished)
 
-### Example
+### Example for User stories
 
 | #   | Task                                                      |
 | --- | --------------------------------------------------------- |
@@ -32,3 +32,12 @@ The User Story is moved to the status <Ready for Deployment> on the Project Boar
 | 7   | Product owner accepts the User Story                      |
 | 8   | The relevant documentation is updated                                        |
 | 9   | Accessibilty    |
+
+### Example for Sprint
+
+| #   | Task                                                      |
+| --- | --------------------------------------------------------- |
+| 1   | The Sprint Backlog is prioritised                    |
+| 2   | All User Stories meet Definition of Ready for User Stories                            |
+| 3   | API contract is ready for the user stories taken in the Sprint                               |
+| 4   | Mock data is provided for stories taken in the Sprint                                   |
